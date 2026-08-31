@@ -18,5 +18,6 @@ A/D or arrow keys: move
 Space/W/Up: jump
 Shift/X: dash
 Touch controls appear on mobile.
+Launch on web-browser: https://szshahh.github.io/molecular-quest/
 
 Open index.html in a browser.
